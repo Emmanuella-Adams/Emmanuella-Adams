@@ -5,14 +5,14 @@
 
 # <div align="center"> Hi, I'm Emmanuella 👋
 
-Aspiring Frontend & Python Developer | Cloud Explorer | Turning ideas into projects daily
+Aspiring AI/ML & Python Developer | Cloud Explorer | Turning ideas into projects daily
 </div>  
   
 
 - ####  I’m on [Google Cloud Study Jams](https://www.skills.google/public_profiles/01fa4ee8-c018-4de9-a98c-6ec788d57118)  
   
 
-- ####  I’m currently learning Front-end Web Dev and Python  
+- ####  I’m currently learning AI/ML and Python  
   
 
 - #### I'm an avid novel reader and a writer😜  
