@@ -12,7 +12,7 @@ Aspiring AI/ML & Python Developer | Cloud Explorer | Turning ideas into projects
 - ####  I’m on [Google Cloud Study Jams](https://www.skills.google/public_profiles/01fa4ee8-c018-4de9-a98c-6ec788d57118)  
   
 
-- ####  I’m currently learning AI/ML and Python  
+- ####  I’m currently learning how to Build & Ship Cloud-Native Python Apps on JetBrains Academy partnered with AWS
   
 
 - #### I'm an avid novel reader and a writer😜  
