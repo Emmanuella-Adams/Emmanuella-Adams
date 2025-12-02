@@ -5,7 +5,7 @@
 <div align="center">
 
 # Hi, I'm Emmanuella 👋  
-**AI/ML Enthusiast • Python Developer in Training • Researcher-in-the-Making**  
+**AI/ML Enthusiast • Python Developer in Training • Aspiring Researcher & Creative Writer**  
 Building ideas into real-world projects, one commit at a time ✨  
 
 </div>
@@ -13,41 +13,42 @@ Building ideas into real-world projects, one commit at a time ✨
 ---
 
 ### 🚀 What I Do  
-- **I build beginner-friendly AI & NLP projects** that help me understand real-world machine learning techniques.  
-- **I explore Python deeply**—writing clean code, improving daily, and documenting my learning journey.  
-- **I love research**, especially topics around:  
+- 🧪 **Build beginner-friendly AI & NLP projects** to experiment with real-world machine learning techniques.  
+- 🐍 **Deep dive into Python** — writing clean code, improving daily, and documenting my learning journey.  
+- 🔬 **Research-focused** — exploring topics like:  
   - Machine Learning for social impact  
-  - NLP for creativity  
+  - NLP for creativity and storytelling  
   - Satellite imagery + computer vision  
-- **I write stories and novels**—creativity is part of my workflow and my personality.  
+- ✍️ **Creative writing & storytelling** — I merge technical skills with novels and storytelling tools.  
 
 ---
 
 ### 🧠 What I'm Currently Learning  
 - **Artificial Intelligence Fundamentals – IBM SkillsBuild**  
-- **Core Python + ML foundations** (FreeCodeCamp & self-learning)  
-- **How to structure research projects** and prepare for future proffesion/academic opportunities  
+- **Python & Machine Learning Foundations** (FreeCodeCamp & self-learning)  
+- **Research methods & project structuring** for future academic/professional work  
 
 ---
 
-### 📌 My Active Projects  
-- [🛰 **UrbanEye – Satellite Image Building Footprint Detection (CV & ML)**](https://github.com/Emmanuella-Adams/urbaneye-ml)  
-    
+### 📌 Active Projects  
 
-- [✍️ **StoryOracle – NLP-powered storytelling assistant**](https://github.com/Emmanuella-Adams/storyoracle-nlp)  
-    
-
----
-
-### 📚 Fun Things About Me  
-- I’m a passionate novel reader and writer 😜  
-- I customize *everything*—my code, my workflow, even my learning path  
-- I love learning fast and building consistently  
+| Project | Description |
+|---------|-------------|
+| 🛰 [**UrbanEye – Satellite Image Building Footprint Detection (CV & ML)**](https://github.com/Emmanuella-Adams/urbaneye-ml) | Detects and segments building footprints from satellite imagery. Combines computer vision & ML for urban planning applications. |
+| ✍️ [**StoryOracle – NLP-powered storytelling assistant**](https://github.com/Emmanuella-Adams/storyoracle-nlp) | Uses natural language processing to assist writers in creating story ideas, outlines, and narratives. |
 
 ---
 
-### ☁️ Cloud Learning  
-- I participated in [**Google Cloud Study Jams** ](https://bit.ly/EmmanuellaAdams-GoogleSkills) and earned relevant Google AI and CLoud skills!
+### 📚 Fun Facts & Personality  
+- Avid novel reader and writer 😜  
+- Love customizing everything—code, workflow, and learning path  
+- Enjoy learning fast and building consistently, turning ideas into projects  
+
+---
+
+### ☁️ Cloud Learning & Credentials  
+- Participated in [**Google Cloud Study Jams**](https://bit.ly/EmmanuellaAdams-GoogleSkills), earning Google AI & Cloud skills certifications.  
+
   
 
   
