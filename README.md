@@ -26,16 +26,16 @@ Building ideas into real-world projects, one commit at a time ✨
 ### 🧠 What I'm Currently Learning  
 - **Artificial Intelligence Fundamentals – IBM SkillsBuild**  
 - **Core Python + ML foundations** (FreeCodeCamp & self-learning)  
-- **How to structure research projects** and prepare for future Google/academic opportunities  
+- **How to structure research projects** and prepare for future proffesion/academic opportunities  
 
 ---
 
 ### 📌 My Active Projects  
-- 🛰 **UrbanEye – Satellite Image Building Footprint Detection (CV & ML)**  
-  https://github.com/Emmanuella-Adams/urbaneye-ml  
+- [🛰 **UrbanEye – Satellite Image Building Footprint Detection (CV & ML)**](https://github.com/Emmanuella-Adams/urbaneye-ml)  
+    
 
-- ✍️ **StoryOracle – NLP-powered storytelling assistant**  
-  https://github.com/Emmanuella-Adams/storyoracle-nlp  
+- [✍️ **StoryOracle – NLP-powered storytelling assistant**](https://github.com/Emmanuella-Adams/storyoracle-nlp)  
+    
 
 ---
 
@@ -47,8 +47,8 @@ Building ideas into real-world projects, one commit at a time ✨
 ---
 
 ### ☁️ Cloud Learning  
-- I’m participating in **Google Cloud Study Jams**  
-  *(your cloud link stays here at the bottom as requested)*  
+- I participated in [**Google Cloud Study Jams** ](https://bit.ly/EmmanuellaAdams-GoogleSkills) and earned relevant Google AI and CLoud skills!
+  
 
   
 
