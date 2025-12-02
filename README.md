@@ -2,23 +2,54 @@
 <img src="https://ibb.co/DN3NvXZ" align="center" style="width: 100%" />
 </div>  
   
+<div align="center">
 
-# <div align="center"> Hi, I'm Emmanuella 👋
+# Hi, I'm Emmanuella 👋  
+**AI/ML Enthusiast • Python Developer in Training • Researcher-in-the-Making**  
+Building ideas into real-world projects, one commit at a time ✨  
 
-Aspiring AI/ML & Python Developer | Cloud Explorer | Turning ideas into projects daily
-</div>  
-  
+</div>
 
-- ####  I’m on [Google Cloud Study Jams](https://www.skills.google/public_profiles/01fa4ee8-c018-4de9-a98c-6ec788d57118)  
-  
+---
 
-- ####  I’m currently learning Artificial Intelligence Fundamentals on IBM SkillsBuild
-  
+### 🚀 What I Do  
+- **I build beginner-friendly AI & NLP projects** that help me understand real-world machine learning techniques.  
+- **I explore Python deeply**—writing clean code, improving daily, and documenting my learning journey.  
+- **I love research**, especially topics around:  
+  - Machine Learning for social impact  
+  - NLP for creativity  
+  - Satellite imagery + computer vision  
+- **I write stories and novels**—creativity is part of my workflow and my personality.  
 
-- #### I'm an avid novel reader and a writer😜  
-  
+---
 
-- ####  Fun fact: I am full on customizations and personality!  
+### 🧠 What I'm Currently Learning  
+- **Artificial Intelligence Fundamentals – IBM SkillsBuild**  
+- **Core Python + ML foundations** (FreeCodeCamp & self-learning)  
+- **How to structure research projects** and prepare for future Google/academic opportunities  
+
+---
+
+### 📌 My Active Projects  
+- 🛰 **UrbanEye – Satellite Image Building Footprint Detection (CV & ML)**  
+  https://github.com/Emmanuella-Adams/urbaneye-ml  
+
+- ✍️ **StoryOracle – NLP-powered storytelling assistant**  
+  https://github.com/Emmanuella-Adams/storyoracle-nlp  
+
+---
+
+### 📚 Fun Things About Me  
+- I’m a passionate novel reader and writer 😜  
+- I customize *everything*—my code, my workflow, even my learning path  
+- I love learning fast and building consistently  
+
+---
+
+### ☁️ Cloud Learning  
+- I’m participating in **Google Cloud Study Jams**  
+  *(your cloud link stays here at the bottom as requested)*  
+
   
 
 <br/>  
