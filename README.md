@@ -41,7 +41,7 @@ Building ideas into real-world projects, one commit at a time ✨
 
 ### 📚 Fun Facts & Personality  
 - Avid novel reader and writer 😜  
-- Love customizing everything—code, workflow, and learning path  
+- Love *customizing everything*! code, workflow, and learning path  
 - Enjoy learning fast and building consistently, turning ideas into projects  
 
 ---
