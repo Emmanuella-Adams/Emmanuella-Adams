@@ -5,7 +5,7 @@
 <div align="center">
 
 # Hi, I'm Emmanuella 👋  
-**AI/ML Enthusiast • Python Developer in Training • Aspiring Researcher & Creative Writer**  
+**AI/ML Enthusiast • Python Developer in Training • Aspiring Researcher & Creative Technologist**  
 Building ideas into real-world projects, one commit at a time ✨  
 
 </div>
