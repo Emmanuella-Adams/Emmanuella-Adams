@@ -25,7 +25,7 @@ Building ideas into real-world projects, one commit at a time ✨
 
 ### 🧠 What I'm Currently Learning  
 - **Artificial Intelligence Fundamentals – IBM SkillsBuild**  
-- **Python & Machine Learning Foundations** (FreeCodeCamp & self-learning)  
+- [**Python & Machine Learning Foundations**](https://github.com/Emmanuella-Adams/python-first-steps) (FreeCodeCamp & self-learning)  
 - **Research methods & project structuring** for future academic/professional work  
 
 ---
