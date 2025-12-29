@@ -24,7 +24,7 @@ Building ideas into real-world projects, one commit at a time ✨
 ---
 
 ### 🧠 What I'm Currently Learning  
-- [ **Artificial Intelligence Fundamentals – IBM SkillsBuild**](https://drive.google.com/file/d/1egPQ11eOKZ9uVRocmDeXvfHo4Hyjj6CR/view?usp=drive_link)
+- Quantum Computing Basics on [IBM Quantum Learning](https://quantum.cloud.ibm.com) 
 - [**Python & Machine Learning Foundations**](https://github.com/Emmanuella-Adams/python-first-steps) (FreeCodeCamp & self-learning)  
 - **Research methods & project structuring** for future academic/professional work  
 
