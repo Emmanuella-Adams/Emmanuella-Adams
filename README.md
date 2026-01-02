@@ -19,7 +19,8 @@ Building ideas into real-world projects, one commit at a time ✨
   - Machine Learning for social impact  
   - NLP for creativity and storytelling  
   - Satellite imagery + computer vision  
-- ✍️ **Creative writing & storytelling** — I merge technical skills with novels and storytelling tools.  
+- ✍️ **Creative writing & storytelling** — I merge technical skills with novels and storytelling tools.
+- 💼  **Improve my [portfolio](https://emmanuella-adams.netlify.app/)** — Always seeking ways to improve myself. 
 
 ---
 
