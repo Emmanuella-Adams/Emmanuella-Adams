@@ -48,7 +48,7 @@ Building ideas into real-world projects, one commit at a time ✨
 ---
 
 ### ☁️ Cloud Learning & Credentials  
-- Participated in [**Google Cloud Study Jams**](https://bit.ly/EmmanuellaAdams-GoogleSkills), earning Google AI & Cloud skills certifications.  
+- Participated in [**Google Cloud Study Jams**](https://bit.ly/EmmanuellaAdams-GoogleSkills), earning Google AI & Cloud skills Badges.  
 
   
 
