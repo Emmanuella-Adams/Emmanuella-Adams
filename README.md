@@ -18,4 +18,4 @@ I'm a Creative Technologist and Software Engineering student building at the int
 
 ---
 
-[Portfolio](https://emmanuell-aadams.vercel.app) · [LinkedIn](https://linkedin.com/in/emmmanuellaaadams) · [Studio](https://ladyanuelle.vercel.app)
+[Portfolio](https://emmanuella-adams.vercel.app) · [LinkedIn](https://linkedin.com/in/emmmanuellaaadams) · [Studio](https://ladyanuelle.vercel.app)
