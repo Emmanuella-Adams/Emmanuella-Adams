@@ -10,7 +10,7 @@
 
 ---
 
-I'm a Creative Technologist and Software Engineering student building at the intersection of emerging technology and human creativity — computer vision on satellite imagery, quantum circuits, and tools that help underrepresented communities.
+I'm a Creative Technologist and Software Engineering student building at the intersection of emerging technology and human creativity, computer vision on satellite imagery, quantum circuits, and tools that help underrepresented communities.
 
 > *Technology becomes most powerful when people can understand, use, and connect with it.*
 
@@ -18,4 +18,4 @@ I'm a Creative Technologist and Software Engineering student building at the int
 
 ---
 
-[Portfolio](https://emmanuellaadams.vercel.app) · [LinkedIn](https://linkedin.com/in/emmmanuellaaadams) · [Studio](https://ladyanuelle.vercel.app)
+[Portfolio](https://emmanuell-aadams.vercel.app) · [LinkedIn](https://linkedin.com/in/emmmanuellaaadams) · [Studio](https://ladyanuelle.vercel.app)
